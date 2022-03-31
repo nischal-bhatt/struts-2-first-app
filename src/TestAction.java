@@ -9,7 +9,7 @@ public class TestAction {
 		System.out.println("----farkkkkWILLSMITHexecute() method called");
 		message = "errrrrr la Message";
 		System.out.println("Name: "+firstName);
-		return "willsmithy";
+		return "willsmith";
 	}
 
 	public String getMessage() {
